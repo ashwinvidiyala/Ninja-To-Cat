@@ -4,4 +4,4 @@ Create a jQuery puzzle using two images sliced into five parts. Using jQuery, ma
 
 ninja_to_cat.bmp is a picture guide for this assignment.
 
-!(ninja_to_cat.bmp)
+![boo](ninja_to_cat.bmp)

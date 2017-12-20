@@ -6,7 +6,5 @@ $(document).ready(function () {
       src: src2,
       alt: alt2
     });
-
   });
-
 })
